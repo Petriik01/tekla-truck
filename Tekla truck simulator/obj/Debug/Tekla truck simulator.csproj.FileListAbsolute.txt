@@ -1,0 +1,47 @@
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla truck simulator.exe.config
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla truck simulator.exe
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla truck simulator.pdb
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Dialog.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Ui.WpfKit.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Akit5.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Common.Geometry.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\DotNetZip.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Mono.Cecil.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Technology.MsgLib.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Technology.Serialization.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Technology.Scripting.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Fusion.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Technology.Scripting.Plugins.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\DotNetKit.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Technology.Rkit.dll
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.xml
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Catalogs.xml
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Datatype.xml
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Dialog.xml
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\bin\Debug\Tekla.Structures.Plugins.xml
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.exe.config
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\App.g.cs
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator_MarkupCompile.cache
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator_MarkupCompile.lref
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\MainWindow.baml
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.g.resources
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla_truck_simulator.Properties.Resources.resources
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.csproj.GenerateResource.cache
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.csproj.CopyComplete
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.exe
+C:\Users\Training\source\repos\Tekla truck simulator\Tekla truck simulator\obj\Debug\Tekla truck simulator.pdb

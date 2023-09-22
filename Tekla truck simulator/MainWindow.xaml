@@ -1,0 +1,34 @@
+﻿<Window x:Class="Tekla_truck_simulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tekla_truck_simulator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid KeyDown="Grid_KeyDown" Loaded="Grid_Loaded">
+        <Button x:Name="buttonStart" Content="Start" HorizontalAlignment="Left" Margin="251,191,0,0" VerticalAlignment="Top" Height="64" Width="125" AutomationProperties.Name="buttonStart" Click="buttonStart_Click"/>
+        <Label Content="Nápověda:" HorizontalAlignment="Left" Margin="627,0,0,0" VerticalAlignment="Center"/>
+        <Label x:Name="labelEngine" Content="Engine: Off" HorizontalAlignment="Left" Margin="613,270,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.257,0.49" Height="25" Width="70" AutomationProperties.Name="labelEngine"/>
+        <Label x:Name="labelHandBreak" Content="Handbreak: On" HorizontalAlignment="Left" Margin="594,300,0,0" VerticalAlignment="Top" AutomationProperties.Name="labelHandBreak"/>
+        <Label x:Name="labelSpeed" Content="SPEED:" HorizontalAlignment="Left" Margin="594,331,0,0" VerticalAlignment="Top" AutomationProperties.Name="labelSpeed"/>
+        <ComboBox x:Name="comboBoxOffers" HorizontalAlignment="Left" Margin="94,91,0,0" VerticalAlignment="Top" Width="126" Height="28" AutomationProperties.Name="comboBoxOffers" SelectionChanged="comboBoxOffers_SelectionChanged">
+            <ComboBoxItem Content="Acetylén"/>
+            <ComboBoxItem Content="Automobily"/>
+            <ComboBoxItem Content="Jablka"/>
+        </ComboBox>
+        <Label Content="Choose your cargo:" HorizontalAlignment="Left" Margin="94,60,0,0" VerticalAlignment="Top"/>
+        <Label Content="Choose your truck:" HorizontalAlignment="Left" Margin="291,60,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBoxTruck" HorizontalAlignment="Left" Margin="291,91,0,0" VerticalAlignment="Top" Width="120" Height="28" AutomationProperties.Name="comboBoxTruck" SelectionChanged="comboBoxTruck_SelectionChanged">
+            <ComboBoxItem Content="Scania"/>
+            <ComboBoxItem Content="Volvo"/>
+            <ComboBoxItem Content="MAN"/>
+        </ComboBox>
+        <Label x:Name="labelNazevNakladu" Content="Název nákladu:" HorizontalAlignment="Left" Margin="42,162,0,0" VerticalAlignment="Top" AutomationProperties.Name="labelNazevNakladu"/>
+        <Label x:Name="labelCena" Content="Cena:" HorizontalAlignment="Left" Margin="93,188,0,0" VerticalAlignment="Top" AutomationProperties.Name="labelCena"/>
+        <Label x:Name="labelPotrebnyVykon" Content="Potřebný výkon:" HorizontalAlignment="Left" Margin="37,217,0,0" VerticalAlignment="Top" AutomationProperties.Name="labelPotrebnyVykon"/>
+        <Label x:Name="labelKamion" Content="Kamion:" HorizontalAlignment="Left" Margin="79,282,0,0" VerticalAlignment="Top" AutomationProperties.Name="labelKamion"/>
+        <Label x:Name="labelVykon" Content="Výkon:" HorizontalAlignment="Left" Margin="79,313,0,0" VerticalAlignment="Top" AutomationProperties.Name="labelVykon"/>
+
+    </Grid>
+</Window>
